@@ -2,7 +2,7 @@
 - 👀 I’m interested in Scara Robot UI in Python an Rpi, whilst driving stepers via AccelStepper Arduino library
 - 🌱 I’m currently learning Javascript, Arduino, Python with OpenCV
 - 💞️ I’m looking to collaborate on interesting Automation Projects
-- 📫 How to reach me ppospisil at gmx net
+- 📫 Peterpospisil at gmx net
 
 <!---
 pitass82/pitass82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
